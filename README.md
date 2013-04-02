@@ -28,21 +28,32 @@ RainMak3r@Could:~/Desktop#
 ================================================================================================
 Example of usage.
 ================================================================================================
-RainMak3r@Could:~/Desktop# ./F0xChas3r.rb -p '/root/.mozilla/firefox/nq474mcm.default' -c '/root/.mozilla/firefox/nq474mcm.default/Cache' 
+RainMak3r@Could:~/Desktop# ./F0xChas3r.rb -p '/root/.mozilla/firefox/nq474mcm.default' -c '/root/.mozilla/firefox/nq474mcm.default/Cache'
 [Info]  F0xChas3r is chasing the Firefox for you now.
-
 [OK]	  11 bookmark records have been found.
 
 [OK]	  4 download records have been found.
+
 [OK]	  21 cookie records have been found.
+
 [OK]  	1 DOM storage records have been found.
+
 [OK]	  2 auto-complete records have been found.
+
 [Info]	Extracting web history could take a few mins.......
+
 [OK]	  97 web browsing history records have been identified.
+
 [Info]	Writing web history records to CSV file.......
+
 [OK]	  3 extension records have been found.
+
 [Info]  F0xChas3r is chasing the Firefox cache records for you now.
+
 [Info]  Extracting cache records could take a few mins.......
+
 [OK]	  112 cache records are identified.
+
 [DONE]	Please check the output CSV files for details.
+
 
