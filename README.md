@@ -33,7 +33,7 @@ EXAMPLE USAGE:
 ================================================================================================
 Example of usage.
 ================================================================================================
-RainMak3r@Could:~/Desktop# ./F0xChas3r.rb -p '/root/.mozilla/firefox/nq474mcm.default' -c '/root/.mozilla/firefox/nq474mcm.default/Cache'
+RainMak3r@Could:~/Desktop# ./F0xChas3r.rb -p '/RainMak3r/.mozilla/firefox/nq474mcm.default' -c '/RainMak3r/.mozilla/firefox/nq474mcm.default/Cache'
 
 [Info]  F0xChas3r is chasing the Firefox for you now.
 
