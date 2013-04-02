@@ -4,6 +4,10 @@ F0xChas3r is a forensic tool for extracting and viewing internet artifacts from 
 include bookmark, auto-complete, download, cookie, DomStorage, history, extension and cache records. All the outputs will
 be saved into CSV file with UTC time.
 
+Developer : Andy Yang
+Version : 0.1.0
+License : GPLv3
+
 ================================================================================================
 
 RainMak3r@Could:~/Desktop# ./F0xChas3r.rb 
