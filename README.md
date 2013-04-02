@@ -2,7 +2,7 @@
 
 F0xChas3r is a forensic tool for extracting and viewing internet artifacts from Mozlila Firefox. The internet artifacts 
 include bookmark, auto-complete, download, cookie, DomStorage, history, extension and cache records. All the outputs will
-save into CSV file with UTC time.
+be saved into CSV file with UTC time.
 
 ================================================================================================
 
@@ -10,6 +10,7 @@ RainMak3r@Could:~/Desktop# ./F0xChas3r.rb
 
 
  ✄╭━━━┳━━━╮╱╱╭━━━┳╮╱╱╱╱╱╱╱╭━━━╮
+ 
  ✄┃╭━━┫╭━╮┃╱╱┃╭━╮┃┃╱╱╱╱╱╱╱┃╭━╮┃
  ✄┃╰━━┫┃┃┃┣╮╭┫┃╱╰┫╰━┳━━┳━━╋╯╭╯┣━╮
  ✄┃╭━━┫┃┃┃┣╋╋┫┃╱╭┫╭╮┃╭╮┃━━╋╮╰╮┃╭╯
