@@ -28,7 +28,6 @@ EXAMPLE USAGE:
     -c, --cache path                 specify user cache location.
     -p, --profile path               specify user profile location.
     -h, --help                       display help
-RainMak3r@Could:~/Desktop# 
 
 
 ================================================================================================
