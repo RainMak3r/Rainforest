@@ -10,13 +10,9 @@ RainMak3r@Could:~/Desktop# ./F0xChas3r.rb
 
 
  ✄╭━━━┳━━━╮╱╱╭━━━┳╮╱╱╱╱╱╱╱╭━━━╮
- 
  ✄┃╭━━┫╭━╮┃╱╱┃╭━╮┃┃╱╱╱╱╱╱╱┃╭━╮┃
- 
  ✄┃╰━━┫┃┃┃┣╮╭┫┃╱╰┫╰━┳━━┳━━╋╯╭╯┣━╮
- 
  ✄┃╭━━┫┃┃┃┣╋╋┫┃╱╭┫╭╮┃╭╮┃━━╋╮╰╮┃╭╯
- 
  ✄┃┃╱╱┃╰━╯┣╋╋┫╰━╯┃┃┃┃╭╮┣━━┃╰━╯┃┃  version 0.1.0
   
 F0xChas3r - Firefox forensic tool by Andy Yang[contactayangATgmailDOTcom]; 
