@@ -29,7 +29,9 @@ RainMak3r@Could:~/Desktop#
 Example of usage.
 ================================================================================================
 RainMak3r@Could:~/Desktop# ./F0xChas3r.rb -p '/root/.mozilla/firefox/nq474mcm.default' -c '/root/.mozilla/firefox/nq474mcm.default/Cache'
+
 [Info]  F0xChas3r is chasing the Firefox for you now.
+
 [OK]	  11 bookmark records have been found.
 
 [OK]	  4 download records have been found.
